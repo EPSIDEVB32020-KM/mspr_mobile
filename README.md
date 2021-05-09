@@ -1,6 +1,6 @@
 # MSPR MOBILE EPSI 2021
 ### Les choses qu'on peut faire avec ce projet:
-#### Créer un Qrcode avec un produit ou article rattaché à ce Qrcode
+#### Scanner un Qrcode avec un produit ou article rattaché à ce Qrcode
 #### Gestion des utilisateurs admin
 #### Gestion des articles
 #### Gestion des type d'articles
