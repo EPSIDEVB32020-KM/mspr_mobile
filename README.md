@@ -12,7 +12,7 @@
 #### Les 2 projets doit être sur la même machine(externe ou locale)
 
 ### Manuel
-#### Quand vous y rendez sur le lien ex(en local Xamp): http://localhost/scanqrcode/View/index.php
+#### Quand vous y rendez sur le lien ex(en local Xamp): http://localhost/front/View/index.php
 #### Vous y verez une page avec Bienvenue sur notre site
 #### Il y a 2 modes: le mode invité et le mode admin, le mode invite peut que faire des scan tandis que l'admin peut faire tout
 #### Pour passer en mode admin on vous demandera de vous connecter
