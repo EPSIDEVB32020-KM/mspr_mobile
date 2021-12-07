@@ -23,6 +23,3 @@
 #### Avant de créer une classe avec des clé étrangère faudrait créer la classe rattaché à elle si cette-ci n'existe pas dans la base de données
 #### Quand vous créer un Qrcode l'image de celle-ci sera stockée sur le dossier images
 
-### Des pôints à améliorer
-#### Il faudrait ajouter des test sur le côté back-end du projet
-#### Ajouter un Trello ne serait pas de refus
